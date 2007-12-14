@@ -1,0 +1,12 @@
+#summary Credit for this code goes to..
+#labels Featured
+
+= Introduction =
+
+This page is for keeping track of people who have contributed to this project.
+
+A special thanks goes to [http://pavlovmedia.com Pavlov Media] for allowing me to do some of this project's work while on-the-clock.
+
+= The List =
+ * Erich Heine
+ * Tim Yardley
