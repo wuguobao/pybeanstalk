@@ -1,0 +1,22 @@
+#summary Thoughts on how to number official releases
+
+== Introduction ==
+
+Keith Rarick, who is the lead for beanstalkd and beanstalk proto development, has stated that the protocol is likely to change until 1.0.  If this is the case, then this client will
+likely change just as much, tracking the changes to the protocol.  To keep confusion minimal, the version numbering of the client will be numbered the same as the server.
+
+The versions will follow a Major.Minor.Release-extra pattern, with major and minor being
+those of the latest beanstalkd server this client can communicate with. The implied bit about this, is our trunk tracks beanstalkd's trunk, of course since its head, it may or may not work :)
+
+== Examples ==
+
+The current version of beanstalkd is 0.5, so the first "official" download version of
+the pybeanstalk client will be:
+
+0.5.1-alpha
+
+After some development work (assuming beanstalkd doesnt change), we have a new release, different enough from the .1, to call it .2:
+
+0.5.2
+
+And so on.
