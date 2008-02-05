@@ -1,0 +1,19 @@
+#summary Work that remains to be done for this client
+#labels Featured,Phase-Design
+
+= The big things =
+
+ * Event based (libevent) client
+ * Twisted Client
+ * Simple mainloop layer
+ * docs
+
+= The little things =
+
+ * better unit testing
+ * usage examples
+ * api review
+ * add to PyPi
+ * eggify it
+ * .dpkg it
+ * .rpm it
