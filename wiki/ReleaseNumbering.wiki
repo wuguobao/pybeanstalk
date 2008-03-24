@@ -1,4 +1,4 @@
-﻿#summary Thoughts on how to number official releases
+﻿#summary How official releases are numbered
 
 == Introduction ==
 
@@ -9,4 +9,3 @@ The versions will follow a Major.Minor.Release-extra pattern, with major and min
 those of the latest beanstalkd server this client can communicate with.
 
 e.g. -- beanstalkd version 0.9 is corellated with pybeanstalk 0.9.0
-
