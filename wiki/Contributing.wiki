@@ -1,0 +1,25 @@
+﻿#summary How to help
+#labels Featured
+
+= Contributing =
+This is a pretty standard open-source project. Contributions are always welcome and desired.  A few guidelines/requests for contributors are outlined below.
+
+== Code ==
+If you would like to contribute code to this project, please do so in the form of a unified diff that I can apply with patch. If you need assistance with this let me know.  If you are a project member, you can just submit to svn :).
+
+Please:
+ * roughly follow [http://www.python.org/dev/peps/pep-0008/ PEP 8]
+ * be willing to explain your code if I ask
+
+== Bugs ==
+ * Pease use the googlecode [http://code.google.com/p/pybeanstalk/issues/list issue tracker] for this project
+ * If possible include the generated error, and how to reproduce it
+
+== Documentation ==
+I think Googlecode currently only allows project members to edit wiki pages, so email me documentation and I will add/edit the appropriate page. If I'm wrong about my above assumption, edit away!
+
+== Other ==
+If there are other ways of contributing I havent mentioned above, email me about them.
+
+= Licensing =
+Currently pybeanstalk is listed as a GPL v3 project.  I will most likely be changing this to a dual licensing, GPL v3 and BSD scheme in the near future.  Contributing code to this project for inclusion implies that you agree with this decision.
