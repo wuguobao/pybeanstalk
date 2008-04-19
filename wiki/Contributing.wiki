@@ -11,9 +11,10 @@ Please:
  * roughly follow [http://www.python.org/dev/peps/pep-0008/ PEP 8]
  * be willing to explain your code if I ask
 
-== Bugs ==
- * Pease use the googlecode [http://code.google.com/p/pybeanstalk/issues/list issue tracker] for this project
+== Bugs/Feature requests ==
+ * Please use the googlecode [http://code.google.com/p/pybeanstalk/issues/list issue tracker] for this project
  * If possible include the generated error, and how to reproduce it
+ * For feature requests, I will most likely ask questions, make comments, etc to the googlecode issue itself, so please keep an eye on it.
 
 == Documentation ==
 I think Googlecode currently only allows project members to edit wiki pages, so email me documentation and I will add/edit the appropriate page. If I'm wrong about my above assumption, edit away!
