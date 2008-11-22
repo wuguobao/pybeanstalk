@@ -1,4 +1,4 @@
-# Directions for getting the source.
+#summary Directions for getting the source.
 
 The source for this project is no longer being kept in the Google Code subversion repositories. We have moved it to github, since git (and most DVCS) allows for better open source workflow.  Everything else will be kept here (wiki, issue tracking etc).
 
