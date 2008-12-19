@@ -5,8 +5,8 @@
 This is a pretty standard open-source project. Contributions are always welcome and desired.  A few guidelines/requests for contributors are outlined below.
 
 == Code ==
-If you would like to contribute code to this project, please do so in the form of a unified or git diff that I can apply to the git trunk, or in the form of a github pull request.  As noted in the source tab, the code repository is hosted on [
-http://github.com/sophacles/pybeanstalk/tree/master github]
+If you would like to contribute code to this project, please do so in the form of a unified or git diff that I can apply to the git trunk, or in the form of a github pull request.  As noted in the source tab, the code repository is hosted on 
+[http://github.com/sophacles/pybeanstalk/tree/master github]
 
 Please:
  * roughly follow [http://www.python.org/dev/peps/pep-0008/ PEP 8]
